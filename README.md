@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Python, Machine Learning and Deep Learning**
 
-- 💬 Ask me about **SQL, Power BI**
+- 💬 Ask me about **SQL, Power BI, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
